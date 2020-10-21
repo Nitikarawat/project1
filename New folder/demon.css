@@ -1,0 +1,85 @@
+body{
+	
+  
+   overflow: auto;
+    background:  #e66e9b;
+   ;
+}
+h1{
+	font-size: 30px;
+	color: white;
+	font-family:arial narrow;
+}
+header{
+	  display: table;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 320px;
+    height: 63px;
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+.picture
+{
+	overflow:auto;
+	margin-left: 250px;
+}
+h3{
+	color: white;
+	font-family:arial narrow;
+	text-align: center;
+	font-size: 30px;
+	text-decoration:underline;
+}
+p{
+	margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+	font-size: 20px;
+	font-family: calisto mt;
+	color:  #1b3140;
+}
+.characters{
+   
+    width: 100%;
+    min-width: 320px;
+    height: 63px;
+    text-align: center;
+	color: white;
+	font-size: 25px; 
+}
+h4{
+	font-family:arial narrow;
+	text-align: center;
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+.zen{
+	width:49%;
+}
+.ino{
+	width: 49%;
+}
+.pillars
+{
+	width: 775px;
+}
+.moons{
+	width: 775px;
+}
+.picture{
+	width:1080px
+}
+.one{
+	font-family: arial narrow;
+	font-size:19px; 
+}
+.two
+{
+	font-family: arial narrow;
+	font-size:19px; 
+}
